@@ -1,0 +1,22 @@
+.heading{
+    position:absolute;
+    display: block;
+    background-color: azure;
+    text-align: center;
+    box-shadow:1px 3px 50px 7px rgb(72, 101, 165);
+    
+
+}
+h1{
+    color: rgb(73, 39, 39);
+
+}
+p{
+    color: rgb(78, 47, 9);
+    font-size:20px;
+    padding-inline-start: 20px;
+    padding-inline-end:20px;
+    padding-block:30px;
+    font-family: Georgia, Times, 'Times New Roman',serif;
+
+}
